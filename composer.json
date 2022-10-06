@@ -1,0 +1,15 @@
+{
+    "name": "abhi/digiprima",
+    "autoload": {
+        "psr-4": {
+            "Abhi\\Digiprima\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "bodanaj",
+            "email": "jitendrabodana87@gmail.com"
+        }
+    ],
+    "require": {}
+}
